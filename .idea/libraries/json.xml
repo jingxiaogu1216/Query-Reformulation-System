@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="json">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/json.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-codec-1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
